@@ -1,0 +1,5 @@
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.car.entities\bin\Debug\myrentals.car.entities.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.car.entities\bin\Debug\myrentals.car.entities.pdb
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.car.entities\obj\Debug\myrentals.car.entities.csprojResolveAssemblyReference.cache
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.car.entities\obj\Debug\myrentals.car.entities.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.car.entities\obj\Debug\myrentals.car.entities.pdb

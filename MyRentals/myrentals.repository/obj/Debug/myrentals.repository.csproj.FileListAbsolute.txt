@@ -1,0 +1,7 @@
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.repository\bin\Debug\myrentals.repository.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.repository\bin\Debug\myrentals.repository.pdb
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.repository\obj\Debug\myrentals.repository.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.repository\obj\Debug\myrentals.repository.pdb
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.repository\obj\Debug\myrentals.repository.csprojResolveAssemblyReference.cache
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.repository\bin\Debug\myrentals.entities.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.repository\bin\Debug\myrentals.entities.pdb

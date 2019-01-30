@@ -1,0 +1,12 @@
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\myrentals.test.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\myrentals.test.pdb
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\obj\Debug\myrentals.test.csprojResolveAssemblyReference.cache
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\obj\Debug\myrentals.test.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\obj\Debug\myrentals.test.pdb
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\myrentals.service.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\myrentals.entities.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\myrentals.repository.dll
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\myrentals.service.pdb
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\myrentals.entities.pdb
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\myrentals.repository.pdb
+C:\ManojRadhakrishnan\Learnings\MyRentals\myrentals.test\bin\Debug\ReservationWorkflow.orderedtest
